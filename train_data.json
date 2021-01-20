@@ -4,7 +4,7 @@
       "questions":
       [
       "diploma al için hangi şart sağl ol gerek",
-      "dipl v oma al için ne lazım",
+      "diploma al için ne lazım",
       "kaç kredi ile mezun ol",
       "mezun ol için ne gerek",
       "ortalama 200 alt mezun ol mi",
@@ -119,7 +119,7 @@
         "questions":
         [
           "sistem gözetim durum ol yaz bu ne",
-          "gözetim öğrenci ne",
+          "gözetim öğrenci ne ",
           "gözetim durum ol ne de",
           "gözetim durum ne ol",
           "kaç not ortalama ile gözetim liste çık",
@@ -165,8 +165,3 @@
 
 
 ]
-
-
-
-
-
